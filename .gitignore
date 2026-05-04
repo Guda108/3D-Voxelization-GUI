@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Build files
+build/
+dist/
+*.spec
+
+# PyInstaller
+*.exe
+*.app
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large generated files
+*.npy
+*.csv
+*.txt
+
+# Keep example files if needed
+!examples/*.csv
+!examples/*.npy
+!examples/*.txt
