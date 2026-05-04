@@ -306,14 +306,14 @@ This tool can be useful for:
 If this project is useful for academic or research purposes, please cite it as:
 
 ```text
-G. Diaz, 3D Voxelization GUI: Graphical Python tools for converting STL models and point clouds into voxel center coordinates, GitHub repository, 2026.
+G. Diaz-Arango, 3D Voxelization GUI: Graphical Python tools for converting STL models and point clouds into voxel center coordinates, GitHub repository, 2026.
 ```
 
 ---
 
 ## Author
 
-**Gerardo Diaz**
+**Gerardo Diaz-Arango**
 
 Researcher and developer working on robotics, 3D processing, electronics, and computational tools for engineering applications.
 
